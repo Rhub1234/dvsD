@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/DevTravDYT/dsaaswadfeszad/main/R HUB/BladeBall'))();
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DevTravDYT/dsaaswadfeszad/main/R hub/BladeBall'))();
 local G2L = {};
 G2L["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"));
 G2L["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
@@ -361,7 +361,7 @@ G2L["32"]["TextSize"] = 14;
 G2L["32"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["32"]["Size"] = UDim2.new(0.26471394300460815, 0, 0.0742340162396431, 0);
 G2L["32"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["32"]["Text"] = [[R hub]];
+G2L["32"]["Text"] = [[Visual]];
 G2L["32"]["Name"] = [[Text2]];
 G2L["32"]["BackgroundTransparency"] = 1;
 G2L["32"]["Position"] = UDim2.new(0.39803922176361084, 0, 0.4151172935962677, 0);
